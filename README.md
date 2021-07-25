@@ -1,1 +1,1 @@
-https://Clukva.github.io/rsschool-cv/cv
+https://Clukva.github.io/rsschool-cv/
