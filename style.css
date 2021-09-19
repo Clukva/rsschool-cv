@@ -135,7 +135,7 @@ h6 {
 }
 .Contacts {
   text-align: left;
-  margin-left: 15%;
+  margin-left: 3.5%;
 }
 a {
   color: black;
@@ -152,6 +152,7 @@ a {
   text-align: left;
   font-size: 120%;
   font-style: italic;
+  margin-left: 15%;
 }
 
 .git {
@@ -248,7 +249,7 @@ a {
     display: none;
   }
 }
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 745px) {
   body {
     flex-direction: column;
   }
